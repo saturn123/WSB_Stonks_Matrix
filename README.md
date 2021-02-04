@@ -1,5 +1,11 @@
 # WSB_Stonks_Matrix
 
+New features:
+Allows to use multiple stonk prices (instead of just 1)
+Easy to add custom ticker symbols
+Easy to add more backgrounds
+Faster transitions and API calls
+
 
 Parts: https://learn.adafruit.com/bitcoin-value-rgb-matrix-display/using-matrixportal
 
