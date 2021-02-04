@@ -1,6 +1,6 @@
 # WSB_Stonks_Matrix
 
-New features:\n
+New features:<br>
 Allows to use multiple stonk prices (instead of just 1)
 Easy to add custom ticker symbols
 Easy to add more backgrounds
